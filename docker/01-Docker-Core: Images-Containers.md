@@ -1,1 +1,1 @@
-# Docker Core: Images & Containers - Docker Core: Image
+# Docker Core: Images & Containers 
